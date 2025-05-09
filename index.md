@@ -14,3 +14,9 @@ Add a code example
 ```python
 text = "Hello world!!!"
 ```
+
+Add a checklist
+
+- [x] step 1
+- [x] step 2
+- [ ] step 3 
